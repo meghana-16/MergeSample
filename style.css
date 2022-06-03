@@ -1,0 +1,26 @@
+.fa-signal{
+    color: rgb(182, 240, 149);
+}
+.navbar-brand{
+    color:white;
+}
+.buttons{
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content:center;
+}
+.btn{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.barStyle{
+    border: 1pt solid black;
+    width: 14px;
+}
+#bars{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 402px;
+    justify-content: center;
+    margin: auto;
+}
